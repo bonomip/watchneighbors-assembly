@@ -1,4 +1,4 @@
-# Watchneighboors
+# Watch Neighboors
 
 A small software that manages the messages provided by users in a neighborhood.
 
